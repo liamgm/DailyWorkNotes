@@ -3,8 +3,8 @@ This is a dirt simple, windows-based project management system that has worked w
 
 1.  Clone the DailyWorkNotes project to your desktop (or wherever you want it and adjust the path in LaunchNotes.bat).
 2.  Create scheduled task with the action to "Start a program" that runs the batch file and with these triggers:
-  1.  "On workstation unlock" of your user account
-  2.  "At log on" of your user
+    1.  "On workstation unlock" of your user account
+    2.  "At log on" of your user
 
 What this does is create a new plain text file in your notes folder or opens an existing one for each day you do any work.
 
